@@ -55,7 +55,7 @@ Users should be able to:
 
 ### Continued development
 
-This is my first practice on flexbox. I am getting the hang of it but still lots of things to learn. I will focus more on using grid, simplifying my code and practice on changing pictues for mobile. 
+This is my second practice on flexbox. I am getting the hang of it but still lots of things to learn. I will focus more on using grid, simplifying my code and practice on changing pictues for mobile. 
 
 
 
